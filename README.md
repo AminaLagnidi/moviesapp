@@ -26,7 +26,10 @@ Movies App est une application mobile développée avec React Native. Cette appl
 •	Google Maps API
 
 # Screenshots
-![WhatsApp Image 2024-05-19 at 12 59 03_da958071](https://github.com/bananaacaat/Movies_app/assets/147453939/b329814f-3249-48a9-948d-fd61ac232dda)
-![WhatsApp Image 2024-05-19 at 12 59 04_1c5f3e3b](https://github.com/bananaacaat/Movies_app/assets/147453939/7ba65604-bbef-49ce-9a29-e4c2e817ca95)
-![WhatsApp Image 2024-05-19 at 12 59 06_d3c90a36](https://github.com/bananaacaat/Movies_app/assets/147453939/b397aff3-72fe-4213-ba9c-28001cb4e118)
-![WhatsApp Image 2024-05-19 at 12 59 08_f1f0ff88](https://github.com/bananaacaat/Movies_app/assets/147453939/98147a0a-013d-4d11-b600-570b68b47c4b)
+![WhatsApp Image 2024-05-19 at 12 59 03_134371b0](https://github.com/AminaLagnidi/moviesapp/assets/147453939/aad11005-4556-40cb-92bb-7152b86cdce8)
+![WhatsApp Image 2024-05-19 at 12 59 04_56f77d6b](https://github.com/AminaLagnidi/moviesapp/assets/147453939/243cdeab-0dcf-4d88-aed9-e42cf88a7196)
+![WhatsApp Image 2024-05-19 at 12 59 06_19456bf8](https://github.com/AminaLagnidi/moviesapp/assets/147453939/135e186c-487f-479f-8e06-bb646b8d4b98)
+![WhatsApp Image 2024-05-19 at 12 59 08_64a042ef](https://github.com/AminaLagnidi/moviesapp/assets/147453939/cc05d028-45a1-423a-8fc2-9383a62c5199)
+
+
+
